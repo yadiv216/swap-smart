@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+.gemini/
+UpdateTheme*.ps1
+FixUICorruption.ps1
+style_new.css
+test_write.txt
